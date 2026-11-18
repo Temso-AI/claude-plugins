@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "temso": {
+      "type": "http",
+      "url": "https://app.temso.ai/api/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "temso",
+  "description": "Temso's plugins for Claude. Market your brand to AI agents.",
+  "owner": {
+    "name": "Temso",
+    "url": "https://www.temso.ai"
+  },
+  "plugins": [
+    {
+      "name": "temso",
+      "source": "./plugins/temso",
+      "description": "Market your brand to AI agents: AI visibility reports, pitch snapshots, improvement plans, and technical audit reviews from your live Temso data.",
+      "category": "marketing"
+    }
+  ]
+}

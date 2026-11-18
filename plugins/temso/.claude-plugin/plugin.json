@@ -1,0 +1,27 @@
+{
+  "name": "temso",
+  "displayName": "Temso",
+  "version": "1.0.0",
+  "description": "Market your brand to AI agents. Measure how often AI recommends you compared to your competitors, fix the pages where AI agents get stuck, plan content, and build pitch snapshots, with your live Temso data.",
+  "author": {
+    "name": "Temso",
+    "url": "https://www.temso.ai"
+  },
+  "homepage": "https://docs.temso.ai/docs/mcp",
+  "repository": "https://github.com/Temso-AI/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "ai-visibility",
+    "geo",
+    "aeo",
+    "seo",
+    "brand-monitoring",
+    "share-of-voice",
+    "marketing"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://docs.temso.ai/docs/mcp",
+  "supportUrl": "https://www.temso.ai/contact",
+  "privacyPolicyUrl": "https://www.temso.ai/legal/privacy-policy",
+  "termsOfServiceUrl": "https://www.temso.ai/legal/terms-of-service"
+}
